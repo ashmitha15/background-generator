@@ -1,0 +1,27 @@
+body{
+	font-family: "raleway", sans-serif;
+	color: rgba(0,0,0,.5);
+	text-align: center;
+	text-transform: uppercase;
+	text-orientation: sideways;
+	letter-spacing: .5em;
+	background-image: linear-gradient(to right, yellow, blue);
+}
+
+h1{
+	text-align: cdenter;
+	font-family: "raleway", sans-serif;
+	color: rgba(0,0,0,.5);
+	text-transform: uppercase;
+	
+	letter-spacing: .5em;
+}
+
+h3{
+	text-align: center;
+	font-family: sans-serif;
+	color: rgba(0,0,0,.5);
+	
+	text-transform: lowercase;
+	letter-spacing: .2em;
+}
